@@ -1,1 +1,27 @@
 
+body
+
+{
+    
+        color: black;
+        background-color: seagreen
+}
+
+*{
+    font-family: georgia
+}
+
+h1 {
+    background-color: seagreen
+}
+
+p {
+    
+    background-color: darkseagreen }
+
+
+
+a:hover {
+    
+    background-color:whitesmoke
+}
