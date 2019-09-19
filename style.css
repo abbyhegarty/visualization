@@ -33,7 +33,7 @@ a:hover {
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
+  content: "content";
   display: table;
   clear: both;
 }
