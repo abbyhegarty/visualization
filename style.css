@@ -26,14 +26,12 @@ a:hover {
     background-color:whitesmoke
 }
 
-.column {
+.column1 {
   float: left;
   width: 50%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "content";
-  display: table;
-  clear: both;
+.column2 {
+  float: right;
+  width: 50%;
 }
